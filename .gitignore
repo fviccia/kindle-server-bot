@@ -14,3 +14,4 @@ docs/_build/
 
 # Dont upload served files
 /files
+access_token.json
